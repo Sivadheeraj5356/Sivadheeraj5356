@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Siva%20Dheeraj&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=agent%20evals%20%C2%B7%20RL%20envs%20%C2%B7%20full-stack%20products&descAlign=50&descAlignY=65" alt="Siva Dheeraj" />
+  <img width="100%" src="./assets/hero.svg" alt="Siva Dheeraj - agent evals, RL environments, full-stack products" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Co-founder+%40+Applied+Work;Full-stack+product+builder" alt="AI eval & RL engineer / Co-founder @ Applied Work / Full-stack product builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Full-stack+product+builder;Building+from+Surat%2C+India" alt="AI eval & RL engineer / Full-stack product builder / Building from Surat, India" />
 </div>
 
 <br/>
 
-I build agent evaluation platforms, RL environments and full-stack products. Co-founder & founding engineer at Applied Work, where we supply expert workers, data and compute to AI and robotics labs.
+I build agent evaluation platforms, RL environments and full-stack products. Currently going deep on post-training and physical AI.
 
 ### Selected work
 
@@ -56,7 +56,7 @@ I build agent evaluation platforms, RL environments and full-stack products. Co-
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" alt="" />
+  <img width="100%" src="./assets/footer.svg" alt="" />
 </div>
 
-<!-- Credits: capsule-render, readme-typing-svg (DenverCoder1), skillicons.dev, anuraghazra/github-readme-stats, DenverCoder1/github-readme-streak-stats, Platane/snk (MIT) - snake regenerated daily via .github/workflows/snake.yml -->
+<!-- Credits: readme-typing-svg (DenverCoder1), skillicons.dev, anuraghazra/github-readme-stats, DenverCoder1/github-readme-streak-stats, Platane/snk (MIT) - snake regenerated daily via .github/workflows/snake.yml. assets/hero.svg and assets/footer.svg are original hand-built animated SVGs for this profile. -->
