@@ -1,21 +1,21 @@
 <svg width="854" height="260" viewBox="0 0 854 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="aurora1" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.75">
-        <animate attributeName="stop-color" values="#1f6feb;#a371f7;#1f6feb" dur="12s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#2f6f4f" stop-opacity="0.75">
+        <animate attributeName="stop-color" values="#2f6f4f;#8fbf6a;#2f6f4f" dur="12s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2f6f4f" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="aurora2" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#a371f7" stop-opacity="0.6">
-        <animate attributeName="stop-color" values="#a371f7;#f778ba;#a371f7" dur="15s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#8fbf6a" stop-opacity="0.6">
+        <animate attributeName="stop-color" values="#8fbf6a;#c8d98a;#8fbf6a" dur="15s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8fbf6a" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0" stop-color="#7fb69a"/>
       <stop offset="0.5" stop-color="#c9d1d9"/>
-      <stop offset="1" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#8fbf6a"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="9s" repeatCount="indefinite"/>
     </linearGradient>
     <linearGradient id="shootGrad" x1="0" y1="0" x2="1" y2="0">
@@ -88,11 +88,11 @@
   </g>
 
   <g transform="translate(758,62)">
-    <circle r="11" fill="#1f6feb"/>
-    <circle r="11" fill="none" stroke="#58a6ff" stroke-opacity="0.5"/>
-    <circle r="24" fill="none" stroke="#58a6ff" stroke-opacity="0.3" stroke-dasharray="3 5"/>
+    <circle r="11" fill="#2f6f4f"/>
+    <circle r="11" fill="none" stroke="#7fb69a" stroke-opacity="0.5"/>
+    <circle r="24" fill="none" stroke="#7fb69a" stroke-opacity="0.3" stroke-dasharray="3 5"/>
     <g>
-      <circle cx="24" cy="0" r="3.2" fill="#a371f7"/>
+      <circle cx="24" cy="0" r="3.2" fill="#8fbf6a"/>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
     </g>
   </g>
