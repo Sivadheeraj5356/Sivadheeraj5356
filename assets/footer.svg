@@ -1,10 +1,10 @@
 <svg width="854" height="110" viewBox="0 0 854 110" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="faurora" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.7">
-        <animate attributeName="stop-color" values="#1f6feb;#a371f7;#1f6feb" dur="14s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#2f6f4f" stop-opacity="0.7">
+        <animate attributeName="stop-color" values="#2f6f4f;#8fbf6a;#2f6f4f" dur="14s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2f6f4f" stop-opacity="0"/>
     </radialGradient>
     <filter id="fblur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="45"/></filter>
   </defs>
