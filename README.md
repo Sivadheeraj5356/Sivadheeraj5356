@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Full-stack+product+builder;Post-training+%26+physical+AI" alt="AI eval & RL engineer / Full-stack product builder / Post-training & physical AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7FB69A&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Full-stack+product+builder;Post-training+%26+physical+AI" alt="AI eval & RL engineer / Full-stack product builder / Post-training & physical AI" />
 </div>
 
 <br/>
@@ -31,12 +31,12 @@ I build agent evaluation platforms, RL environments and full-stack products. Cur
 ### Numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sivadheeraj5356&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadheeraj5356&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sivadheeraj5356&show_icons=true&theme=github_dark&hide_border=true&title_color=7fb69a&icon_color=7fb69a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadheeraj5356&layout=compact&theme=github_dark&hide_border=true&title_color=7fb69a&icon_color=7fb69a" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=sivadheeraj5356&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=sivadheeraj5356&theme=github-dark&hide_border=true&ring=7fb69a&fire=7fb69a&currStreakLabel=7fb69a" alt="Contribution streak" />
 </div>
 
 <div align="center">
@@ -50,9 +50,9 @@ I build agent evaluation platforms, RL environments and full-stack products. Cur
 ### Elsewhere
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sivadheeraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sivadheeraj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:sivadheeraj5356@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sivadheeraj"><img src="https://img.shields.io/badge/LinkedIn-2d333b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sivadheeraj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2d333b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sivadheeraj5356@gmail.com"><img src="https://img.shields.io/badge/Email-2d333b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <div align="center">
