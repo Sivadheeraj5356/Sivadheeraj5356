@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/hero.svg" alt="Siva Dheeraj - agent evals, RL environments, full-stack products" />
+  <img width="100%" src="./assets/hero.svg?v=2" alt="Siva Dheeraj - agent evals, RL environments, full-stack products" />
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@ I build agent evaluation platforms, RL environments and full-stack products. Cur
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/footer.svg" alt="" />
+  <img width="100%" src="./assets/footer.svg?v=2" alt="" />
 </div>
 
 <!-- Credits: readme-typing-svg (DenverCoder1), skillicons.dev, anuraghazra/github-readme-stats, DenverCoder1/github-readme-streak-stats, Platane/snk (MIT) - snake regenerated daily via .github/workflows/snake.yml. assets/hero.svg and assets/footer.svg are original hand-built animated SVGs for this profile. -->
