@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Full-stack+product+builder;Building+from+Surat%2C+India" alt="AI eval & RL engineer / Full-stack product builder / Building from Surat, India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=AI+eval+%26+RL+engineer;Full-stack+product+builder;Post-training+%26+physical+AI" alt="AI eval & RL engineer / Full-stack product builder / Post-training & physical AI" />
 </div>
 
 <br/>
