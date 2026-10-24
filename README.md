@@ -22,7 +22,7 @@ I build agent evaluation platforms, RL environments and full-stack products. Cur
 | [agentforge](https://github.com/Sivadheeraj5356/agentforge) | Agent bench and grader: Horizon v1 catalog, hidden verifiers, Next.js control plane, isolated evaluator |
 | [SignalDesk](https://signaldesk-gtm-mzy9.onrender.com) | Local-first GTM workspace: evidence-backed account scoring, traceable workflows, reviewable distribution drafts |
 | [CodeDevAI](https://github.com/Sivadheeraj5356/CodeDevIDE) | Browser IDE that turns a prompt into a running React project: Gemini codegen, saved Convex workspaces, live preview |
-| Mock AI | AI mock-interview platform: generated questions, audio or typed answers, speech-to-text, AI feedback and progress tracking |
+| [Mock AI](https://mock-ai.sivadheeraj5356.workers.dev) | AI mock-interview platform: generated questions, audio or typed answers, speech-to-text, AI feedback and progress tracking |
 | [PlayGarden](https://playgarden-sivadheerajs-projects.vercel.app/) | 15 free browser games, no sign-up: custom sizes, speeds and bot strengths |
 
 
