@@ -26,6 +26,9 @@ I build agent evaluation platforms, RL environments and full-stack products. Cur
 | [Mock AI](https://mock-ai.sivadheeraj5356.workers.dev) | AI mock-interview platform: generated questions, audio or typed answers, speech-to-text, AI feedback and progress tracking |
 | [PlayGarden](https://playgarden-sivadheerajs-projects.vercel.app/) | 82 free browser games, no sign-up: custom sizes, speeds and bot strengths |
 | [QuizSift](https://quizsift.vercel.app/) | Quiz builder: templates, shareable play links, scored results |
+| [phone-use](https://github.com/Sivadheeraj5356/phone-use) | Android automation using LLM agents to read screens, tap, swipe and type over ADB; CAPTCHA handoff to humans |
+| [Patchline](https://patchline.sivadheeraj5356.workers.dev) | Self-maintaining API clients: compares OpenAPI specs, finds affected code and drafts migration patches |
+| [Shellcode](https://github.com/Sivadheeraj5356/shellcode) | Coding-agent shell that routes tasks across models and agent harnesses; tested with a local model and OpenCode runs |
 
 
 ### Stack
